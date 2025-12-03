@@ -1,0 +1,170 @@
+[
+  {
+    "busNo": "যমুনা",
+    "weekday_schedule": [
+      { "time": "5:40 AM", "route": "To Campus", "type": "Morning" },
+      { "time": "8:00 AM", "route": "Return to City", "type": "Morning" },
+      { "time": "1:45 PM", "route": "চুয়েট — কুয়াইশ — রাস্তারমাথা", "type": "Noon" },
+      { "time": "4:45 PM", "route": "To City", "type": "Evening" },
+      { "time": "10:30 PM", "route": "Return to Campus", "type": "Evening" }
+    ],
+    "weekend_schedule": [
+      { "time": "2:30 PM", "route": "CUET → City", "type": "Noon" },
+      { "time": "9:30 PM", "route": "City → CUET", "type": "Evening" }
+    ]
+  },
+  {
+    "busNo": "রূপসা",
+    "weekday_schedule": [
+      { "time": "5:40 AM", "route": "To Campus", "type": "Morning" },
+      { "time": "8:00 AM", "route": "Return to City", "type": "Morning" },
+      { "time": "1:45 PM", "route": "চুয়েট — কুয়াইশ — রাস্তারমাথা", "type": "Noon" },
+      { "time": "4:45 PM", "route": "To City", "type": "Evening" },
+      { "time": "10:30 PM", "route": "Return to Campus", "type": "Evening" }
+    ],
+    "weekend_schedule": [
+      { "time": "2:30 PM", "route": "CUET → City", "type": "Noon" },
+      { "time": "9:30 PM", "route": "City → CUET", "type": "Evening" }
+    ]
+  },
+  {
+    "busNo": "সাঙ্গু",
+    "weekday_schedule": [
+      { "time": "5:40 AM", "route": "To Campus", "type": "Morning" },
+      { "time": "8:00 AM", "route": "Return to City", "type": "Morning" },
+      { "time": "1:45 PM", "route": "চুয়েট — কুয়াইশ — রাস্তারমাথা", "type": "Noon" },
+      { "time": "4:45 PM", "route": "To City", "type": "Evening" },
+      { "time": "10:30 PM", "route": "Return to Campus", "type": "Evening" }
+    ],
+    "weekend_schedule": [
+      { "time": "2:30 PM", "route": "CUET → City", "type": "Noon" },
+      { "time": "9:30 PM", "route": "City → CUET", "type": "Evening" }
+    ]
+  },
+  {
+    "busNo": "বুড়িগঙ্গা",
+    "weekday_schedule": [
+      { "time": "5:40 AM", "route": "To Campus", "type": "Morning" },
+      { "time": "8:00 AM", "route": "Return to City", "type": "Morning" },
+      { "time": "1:45 PM", "route": "চুয়েট — কুয়াইশ — রাস্তারমাথা", "type": "Noon" },
+      { "time": "4:45 PM", "route": "To City", "type": "Evening" },
+      { "time": "10:30 PM", "route": "Return to Campus", "type": "Evening" }
+    ],
+    "weekend_schedule": [
+      { "time": "2:30 PM", "route": "CUET → City", "type": "Noon" },
+      { "time": "9:30 PM", "route": "City → CUET", "type": "Evening" }
+    ]
+  },
+  {
+    "busNo": "পদ্মা",
+    "weekday_schedule": [
+      { "time": "5:40 AM", "route": "To Campus", "type": "Morning" },
+      { "time": "8:30 AM", "route": "Return to City", "type": "Morning" },
+      { "time": "1:45 PM", "route": "চুয়েট — কুয়াইশ — রাস্তারমাথা", "type": "Noon" },
+      { "time": "4:45 PM", "route": "To City", "type": "Evening" },
+      { "time": "10:30 PM", "route": "Return to Campus", "type": "Evening" }
+    ],
+    "weekend_schedule": [
+      { "time": "2:30 PM", "route": "CUET → City", "type": "Noon" },
+      { "time": "9:30 PM", "route": "City → CUET", "type": "Evening" }
+    ]
+  },
+  {
+    "busNo": "ইছামতি",
+    "weekday_schedule": [
+      { "time": "5:40 AM", "route": "To Campus", "type": "Morning" },
+      { "time": "8:30 AM", "route": "Return to City", "type": "Morning" },
+      { "time": "1:45 PM", "route": "চুয়েট — কুয়াইশ — রাস্তারমাথা", "type": "Noon" },
+      { "time": "4:45 PM", "route": "To City", "type": "Evening" },
+      { "time": "10:30 PM", "route": "Return to Campus", "type": "Evening" }
+    ],
+    "weekend_schedule": [
+      { "time": "2:30 PM", "route": "CUET → City", "type": "Noon" },
+      { "time": "9:30 PM", "route": "City → CUET", "type": "Evening" }
+    ]
+  },
+  {
+    "busNo": "তিস্তা",
+    "weekday_schedule": [
+      { "time": "5:40 AM", "route": "To Campus", "type": "Morning" },
+      { "time": "8:30 AM", "route": "Return to City", "type": "Morning" },
+      { "time": "1:45 PM", "route": "চুয়েট — কুয়াইশ — রাস্তারমাথা", "type": "Noon" },
+      { "time": "4:45 PM", "route": "To City", "type": "Evening" },
+      { "time": "10:30 PM", "route": "Return to Campus", "type": "Evening" }
+    ],
+    "weekend_schedule": [
+      { "time": "2:30 PM", "route": "CUET → City", "type": "Noon" },
+      { "time": "9:30 PM", "route": "City → CUET", "type": "Evening" }
+    ]
+  },
+  {
+    "busNo": "হালদা",
+    "weekday_schedule": [
+      { "time": "5:40 AM", "route": "To Campus", "type": "Morning" },
+      { "time": "8:30 AM", "route": "Return to City", "type": "Morning" },
+      { "time": "1:45 PM", "route": "চুয়েট — কুয়াইশ — রাস্তারমাথা", "type": "Noon" },
+      { "time": "4:45 PM", "route": "To City", "type": "Evening" },
+      { "time": "10:30 PM", "route": "Return to Campus", "type": "Evening" }
+    ],
+    "weekend_schedule": [
+      { "time": "2:30 PM", "route": "CUET → City", "type": "Noon" },
+      { "time": "9:30 PM", "route": "City → CUET", "type": "Evening" }
+    ]
+  },
+  {
+    "busNo": "বিআরটিসি ১",
+    "weekday_schedule": [
+      { "time": "5:40 AM", "route": "To Campus", "type": "Morning" },
+      { "time": "8:30 AM", "route": "Return to City", "type": "Morning" },
+      { "time": "1:45 PM", "route": "চুয়েট — কুয়াইশ — রাস্তারমাথা", "type": "Noon" },
+      { "time": "4:45 PM", "route": "To City", "type": "Evening" },
+      { "time": "10:30 PM", "route": "Return to Campus", "type": "Evening" }
+    ],
+    "weekend_schedule": [
+      { "time": "2:30 PM", "route": "CUET → City", "type": "Noon" },
+      { "time": "9:30 PM", "route": "City → CUET", "type": "Evening" }
+    ]
+  },
+  {
+    "busNo": "বিআরটিসি ২",
+    "weekday_schedule": [
+      { "time": "5:40 AM", "route": "To Campus", "type": "Morning" },
+      { "time": "8:30 AM", "route": "Return to City", "type": "Morning" },
+      { "time": "1:45 PM", "route": "চুয়েট — কুয়াইশ — রাস্তারমাথা", "type": "Noon" },
+      { "time": "4:45 PM", "route": "To City", "type": "Evening" },
+      { "time": "10:30 PM", "route": "Return to Campus", "type": "Evening" }
+    ],
+    "weekend_schedule": [
+      { "time": "2:30 PM", "route": "CUET → City", "type": "Noon" },
+      { "time": "9:30 PM", "route": "City → CUET", "type": "Evening" }
+    ]
+  },
+  {
+    "busNo": "গোমতি",
+    "weekday_schedule": [
+      { "time": "5:40 AM", "route": "To Campus", "type": "Morning" },
+      { "time": "8:30 AM", "route": "Return to City", "type": "Morning" },
+      { "time": "1:45 PM", "route": "চুয়েট — কুয়াইশ — রাস্তারমাথা", "type": "Noon" },
+      { "time": "4:45 PM", "route": "To City", "type": "Evening" },
+      { "time": "10:30 PM", "route": "Return to Campus", "type": "Evening" }
+    ],
+    "weekend_schedule": [
+      { "time": "2:30 PM", "route": "CUET → City", "type": "Noon" },
+      { "time": "9:30 PM", "route": "City → CUET", "type": "Evening" }
+    ]
+  },
+  {
+    "busNo": "তুরাগ",
+    "weekday_schedule": [
+      { "time": "5:40 AM", "route": "To Campus", "type": "Morning" },
+      { "time": "8:30 AM", "route": "Return to City", "type": "Morning" },
+      { "time": "1:45 PM", "route": "চুয়েট — কুয়াইশ — রাস্তারমাথা", "type": "Noon" },
+      { "time": "4:45 PM", "route": "To City", "type": "Evening" },
+      { "time": "10:30 PM", "route": "Return to Campus", "type": "Evening" }
+    ],
+    "weekend_schedule": [
+      { "time": "2:30 PM", "route": "CUET → City", "type": "Noon" },
+      { "time": "9:30 PM", "route": "City → CUET", "type": "Evening" }
+    ]
+  }
+]
