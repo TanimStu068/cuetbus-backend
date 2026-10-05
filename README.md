@@ -50,13 +50,6 @@ This is the **CUETBus backend server**, built with **Node.js** and **Express**, 
 
 ---
 
-## 🛠 Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/<your-username>/cuetbus_backend.git
-
 ## License
 
 This project is currently not licensed for reuse, modification,
